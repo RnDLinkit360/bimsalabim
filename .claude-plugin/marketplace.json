@@ -1,0 +1,76 @@
+{
+  "name": "bimsalabim",
+  "description": "Development marketplace for Bimsalabim core skills library",
+  "owner": {
+    "name": "Ghoffar Setiawan",
+    "email": "ghoffar.setiawan@linkit360.com"
+  },
+  "plugins": [
+    {
+      "name": "checking-code-coverage",
+      "description": "Checking code coverage",
+      "version": "0.0.1",
+      "source": "./plugins/checking-code-coverage",
+      "category": "learning",
+      "author": {
+        "name": "Ghoffar Setiawan",
+        "email": "ghoffar.setiawan@linkit360.com"
+      }
+    },
+    {
+      "name": "checking-code-duplication",
+      "description": "Checking code duplication",
+      "version": "0.0.1",
+      "source": "./plugins/checking-code-duplication",
+      "category": "learning",
+      "author": {
+        "name": "Ghoffar Setiawan",
+        "email": "ghoffar.setiawan@linkit360.com"
+      }
+    },
+    {
+      "name": "checking-security-hotspot",
+      "description": "Checking security hotspot",
+      "version": "0.0.1",
+      "source": "./plugins/checking-security-hotspot",
+      "category": "learning",
+      "author": {
+        "name": "Ghoffar Setiawan",
+        "email": "ghoffar.setiawan@linkit360.com"
+      }
+    },
+    {
+      "name": "checking-vulnerabilities",
+      "description": "Checking vulnerabilities",
+      "version": "0.0.1",
+      "source": "./plugins/checking-vulnerabilities",
+      "category": "learning",
+      "author": {
+        "name": "Ghoffar Setiawan",
+        "email": "ghoffar.setiawan@linkit360.com"
+      }
+    },
+    {
+      "name": "refactoring-based-quality-gate",
+      "description": "Refactoring based quality gate",
+      "version": "0.0.1",
+      "source": "./plugins/refactoring-based-quality-gate",
+      "category": "development",
+      "author": {
+        "name": "Ghoffar Setiawan",
+        "email": "ghoffar.setiawan@linkit360.com"
+      }
+    },
+    {
+      "name": "scaffolding-backend-clean-architecture",
+      "description": "Scaffolding backend clean architecture",
+      "version": "0.0.1",
+      "source": "./plugins/scaffolding-backend-clean-architecture",
+      "category": "productivity",
+      "author": {
+        "name": "Ghoffar Setiawan",
+        "email": "ghoffar.setiawan@linkit360.com"
+      }
+    }
+  ]
+}

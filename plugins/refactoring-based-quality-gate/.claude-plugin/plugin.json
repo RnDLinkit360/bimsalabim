@@ -1,0 +1,9 @@
+{
+  "name": "refactoring-based-quality-gate",
+  "description": "Refactoring based quality gate",
+  "version": "0.0.1",
+  "author": {
+    "name": "Ghoffar Setiawan",
+    "email": "ghoffar.setiawan@linkit360.com"
+  }
+}

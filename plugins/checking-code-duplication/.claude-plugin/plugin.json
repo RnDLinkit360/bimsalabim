@@ -1,0 +1,9 @@
+{
+  "name": "checking-code-duplication",
+  "description": "Checking code duplication",
+  "version": "0.0.1",
+  "author": {
+    "name": "Ghoffar Setiawan",
+    "email": "ghoffar.setiawan@linkit360.com"
+  }
+}

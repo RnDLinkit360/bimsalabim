@@ -1,5 +1,5 @@
 ---
-name: linkit360-checking-vulnerabilities
+name: checking-vulnerabilities
 description: Use when user asks to check, scan, analyze, audit, or report security vulnerabilities in code. Triggers on: "check vulnerabilities", "security audit", "find vulnerabilities", "security scan", "vulnerable code", "security issues", "OWASP", "CVE", "injection", "XSS", "SQL injection", "security report".
 ---
 

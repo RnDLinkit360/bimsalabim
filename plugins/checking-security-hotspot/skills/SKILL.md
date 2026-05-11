@@ -1,5 +1,5 @@
 ---
-name: linkit360-checking-security-hotspot
+name: checking-security-hotspot
 description: Use when user asks to check, identify, or report security hotspots in code — security-sensitive areas that need developer review to determine if a fix is required. Triggers on: "security hotspot", "security-sensitive code", "review security", "hotspot analysis", "SonarQube hotspot", "RSPEC hotspot", "security review needed", "sensitive code review".
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: linkit360-checking-code-coverage
+name: checking-code-coverage
 description: Use when user asks to check, measure, run, or report unit test code coverage for a project or file. Triggers on: "check coverage", "run tests with coverage", "code coverage report", "test coverage", "coverage percentage", "how much code is covered".
 ---
 

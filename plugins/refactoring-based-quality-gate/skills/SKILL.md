@@ -1,5 +1,5 @@
 ---
-name: linkit360-refactoring-based-quality-gate
+name: refactoring-based-quality-gate
 description: Use when user asks to refactor code to meet quality gates, fix all quality findings, improve code quality to pass thresholds, or resolve duplication/coverage/vulnerability/hotspot issues. 
 Triggers on: "refactor quality gate", "fix quality issues", "meet quality thresholds", "quality gate refactoring", "resolve all findings", "fix duplication coverage vulnerabilities hotspots".
 ---

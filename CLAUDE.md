@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 **Bimsalabim** is a Claude Code plugin marketplace — a collection of reusable skills for LinkIT360's development workflows. No runtime code, no build step, no tests. Everything is Markdown skill definitions + JSON plugin manifests.
 
-Repository: https://github.com/linkit360/bimsalabim
+Repository: https://github.com/RnDLinkit360/bimsalabim
 
 ## Plugin Structure
 

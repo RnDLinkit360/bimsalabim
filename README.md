@@ -27,7 +27,7 @@ Claude Code skills library by [LinkIT360](https://linkit360.com) — reusable sk
 Add this plugin to your Claude Code project:
 
 ```bash
-claude plugin add https://github.com/linkit360/bimsalabim
+claude plugin add https://github.com/RnDLinkit360/bimsalabim
 ```
 
 ## Usage

@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path \"D:\\\\GSW\\\\LINKIT360\\\\PROJECT\\\\BIMSALABIM\\\\linkit360\\\\bimsalabim\" -Force)",
+      "Bash(Select-Object Name, Mode)",
+      "Bash(git config *)"
+    ]
+  }
+}
